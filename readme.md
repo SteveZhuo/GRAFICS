@@ -1,8 +1,10 @@
-Official implementation of the ICDCS2022 paper: GRAFICS: Graph Embedding-based Floor Identification Using Crowdsourced RF Signals
+# GRAFICS: Graph Embedding-based Floor Identification Using Crowdsourced RF Signals [ICDCS 2022]
 
-Weipeng Zhuo, Ziqi Zhao, Ka Ho Chiu, Shiju Li, Sangtae Ha, Chul-Ho Lee, S.-H. Gary Chan
-
-[IEEE page](https://ieeexplore.ieee.org/abstract/document/9912243), [Arxiv](https://arxiv.org/abs/2210.07895)
+This is the official implementation of the paper: <br/>
+> **GRAFICS: Graph Embedding-based Floor Identification Using Crowdsourced RF Signals** [IEEE page](https://ieeexplore.ieee.org/abstract/document/9912243), [Arxiv](https://arxiv.org/abs/2210.07895)
+> 
+> Weipeng Zhuo, Ziqi Zhao, Ka Ho Chiu, Shiju Li, Sangtae Ha, Chul-Ho Lee, S.-H. Gary Chan       
+> *IEEE International Conference on Distributed Computing Systems (ICDCS), 2022*
 
 ## Overview
 
