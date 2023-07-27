@@ -49,7 +49,7 @@ If you find this work useful, please consider citing it.
 
 ```
 @INPROCEEDINGS{zhuo2022grafics,
-  author={Zhuo, Weipeng and Zhao, Ziqi and Ho Chiu, Ka and Li, Shiju and Ha, Sangtae and Lee, Chul-Ho and Gary Chan, S.-H.},
+  author={Zhuo, Weipeng and Zhao, Ziqi and Chiu, Ka Ho and Li, Shiju and Ha, Sangtae and Lee, Chul-Ho and Chan, S.-H. Gary},
   booktitle={2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)}, 
   title={GRAFICS: Graph Embedding-based Floor Identification Using Crowdsourced RF Signals}, 
   year={2022},
